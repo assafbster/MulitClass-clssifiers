@@ -12,3 +12,7 @@ useMNIST = False which uses the synthetic data and has two scenarios
 For scenario A set : syntheticSenarioAorB = True
 
 For scenario A set : syntheticSenarioAorB = False
+
+The number of samples in the synthetic experiemnt is set by nsamps.
+Note that N in the paper refers to the number of training samples
+
