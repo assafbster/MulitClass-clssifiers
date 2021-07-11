@@ -8,6 +8,9 @@ useMNIST = True
 This uses the MNIST database 
 
 useMNIST = False
+
 This uses the synthetic data and has two scenarios
+
 Scenarion A for : syntheticSenarioAorB = True
+
 Scenarion B for : syntheticSenarioAorB = False
